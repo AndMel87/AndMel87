@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndMel87
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning Python (with eyes on penetration testing down the line).
+- 🌱 I’m currently learning to code. Starting with Python (with eyes on penetration testing down the line).
 - 💞️ I’m looking to collaborate on nothing special at the moment.
 - 📫 How to reach me? You know if you need to know.
 
